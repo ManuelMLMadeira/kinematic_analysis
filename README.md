@@ -15,4 +15,4 @@ The methods and pipeline used are extensively described in the ***report.pdf*** 
 
 2) Run ***KinematicAnalysis.m***. A choice window will pop up and the ***BiomechanicalModel_gait.txt*** or the ***BiomechanicalModel_jump.txt*** should be picked.
 
-Note that for each of these steps, the choice of the aforementioned files will lead to the analysis of the respective motion. For the analysis of the alternative file, please repeat the steps for the other files. All the files mentioned are inside the Computational Implementation directory.
+Note that for each of these steps, the choice of the aforementioned files will lead to the analysis of the respective motion. For the analysis of the alternative file, please repeat the steps for the other files. All the files mentioned are inside the Computational Implementation directory. 
